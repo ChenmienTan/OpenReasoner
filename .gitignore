@@ -1,0 +1,5 @@
+ckpts/
+outputs/
+wandb/
+core-pt_*
+nohup.out
